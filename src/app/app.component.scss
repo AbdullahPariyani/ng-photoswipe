@@ -1,0 +1,11 @@
+// @import "photoswipe/dist/photoswipe.css";
+
+:host {
+  .pswp-gallery {
+    background-color: lightblue;
+  }
+  .wrapper {
+    position: relative;
+    display: flex;
+  }
+}
